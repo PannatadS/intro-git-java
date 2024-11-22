@@ -10,7 +10,7 @@
 - ตรวจสอบว่าเชื่อม Local Repository เข้ากับ Remote Repository หรือไม่ด้วยคำสั่ง git remote -v
 - เริ่ม pull file ⬇️ จาก Remote Repository ด้วยคำสั่ง git pull origin main
 - git add ➕ เพื่อทำการ add file ที่ต้องการไปยัง staging area (สามารถใช้ git status เพื่อตรวจสอบ)
-- git restore ◀️ เพื่อย้อนกลับไปยัง Untracked files ได้
+- git restore --staged + ชื่อไฟล์ที่ทำการ add ไปเมื่อสักครู่ ◀️ เพื่อย้อนกลับไปยัง Untracked files ได้
 
 ## หากไม่ต้องการนำไฟล์จาก Local file บางอย่างขึ้น
 - ไป config ที่ .gitignore
