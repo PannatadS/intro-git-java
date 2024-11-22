@@ -8,7 +8,9 @@
 - เริ่ม initialize ด้วยคำสั่งว่า git init
 - เชื่อม Local Repository และ Remote Repository ด้วยคำสั่ง git remote add origin ...
 - ตรวจสอบว่าเชื่อม Local Repository เข้ากับ Remote Repository หรือไม่ด้วยคำสั่ง git remote -v
-- เริ่ม pull file จาก Remote Repository ด้วยคำสั่ง git pull origin main
+- เริ่ม pull file ⬇️ จาก Remote Repository ด้วยคำสั่ง git pull origin main
+- git add ➕ เพื่อทำการ add file ที่ต้องการไปยัง staging area (สามารถใช้ git status เพื่อตรวจสอบ)
+- git restore ◀️ เพื่อย้อนกลับไปยัง Untracked files ได้
 
 ## หากไม่ต้องการนำไฟล์จาก Local file บางอย่างขึ้น
 - ไป config ที่ .gitignore
@@ -17,3 +19,5 @@
 ## หากต้องการแตก branch จะทำอย่างไร ?
 - git checkout -b แล้วตามด้วยชื่อ branch
 - git checkout +ชื่อ branch จะเป็นการ switch branch
+
+##
