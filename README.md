@@ -12,3 +12,4 @@ Java backend developer bootcamp
   - .idea/
  
 ## หากต้องการแตก branch จะทำอย่างไร ?
+- git checkout -b แล้วตามด้วยชื่อ branch
