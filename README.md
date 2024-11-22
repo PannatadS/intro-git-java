@@ -1,8 +1,8 @@
-# intro-git-java
+# intro-git-java 
 Java backend developer bootcamp
 
-## โจทย์
-### ลองแตก branch ออกมาจาก main branch จากนั้นให้แก้ไขใน branch ที่แตกออกมา แล้วสุดท้าย merge กลับไปที่ main branch 
+## โจทย์ ❓
+ลองแตก branch ออกมาจาก main branch จากนั้นให้แก้ไขใน branch ที่แตกออกมา แล้วสุดท้าย merge กลับไปที่ main branch 
 
 ## Start!
 - เริ่ม initialize ด้วยคำสั่งว่า git init
