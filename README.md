@@ -13,3 +13,4 @@ Java backend developer bootcamp
  
 ## หากต้องการแตก branch จะทำอย่างไร ?
 - git checkout -b แล้วตามด้วยชื่อ branch
+- git checkout +ชื่อ branch จะเป็นการ switch branch
